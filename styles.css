@@ -7,7 +7,7 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    padding: 20px 250px 150px 250px; 
+    padding: 20px 250px 125px 250px; 
     min-width: 850px;
 }
 
@@ -51,4 +51,30 @@ button {
     padding: 8px 36px;
     margin-top: 8px;
     font-weight: bold;
+}
+
+.information {
+    text-align: center;
+    color: #1F2937;
+    margin-bottom: 150px;
+}
+.information-header-text {
+    font-size: 36px;
+    font-weight: 800;
+    margin: 50px 0;
+}
+
+.info-container {
+    font-size: 17px;
+    color: grey;
+    display: flex;
+    padding: 0 325px;
+    gap: 50px;
+}
+
+.info img {
+    border: 4px solid #3882F6; 
+    border-radius: 10px;
+    width: 150px;
+    height: auto;
 }
