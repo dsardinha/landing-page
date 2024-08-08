@@ -58,6 +58,16 @@ button {
     font-weight: bold;
 }
 
+button:hover {
+    background-color: white;
+    color: #3882F6;
+}
+
+button:active {
+    box-shadow: 5px -5px #666;
+    transform: translateY(4px);
+}
+
 .information-section {
     text-align: center;
     color: #1F2937;
@@ -140,6 +150,16 @@ button {
 .call-to-action-button {
     border-color: white;
     border-style: solid;
+}
+
+.call-to-action-button:hover {
+    background-color: white;
+    color: #3882F6;
+}
+
+.call-to-action-button:active {
+    box-shadow: 5px -5px #666;
+    transform: translateY(4px);
 }
 
 .footer {
