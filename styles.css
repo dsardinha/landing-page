@@ -29,7 +29,8 @@ body {
 }
 
 .hero-secondary-text,
-a {
+a,
+.footer {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -126,4 +127,10 @@ button {
 .call-to-action-button {
     border-color: white;
     border-style: solid;
+}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    padding: 40px 0;
 }
