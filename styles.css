@@ -48,6 +48,7 @@ button {
     color: white;
     background-color: #3882F6;
     border-radius: 10px;
+    border-style: hidden;
     padding: 8px 36px;
     margin-top: 8px;
     font-weight: bold;
@@ -97,3 +98,32 @@ button {
     font-weight: 700;
 }
 
+.call-to-action-section {
+    display: flex;
+    background-color: #3882F6;
+    width: 850px;
+    margin: 100px auto;
+    padding: 50px 100px;
+    border-radius: 10px;
+}
+
+.call-to-action-text {
+    display: flex;
+    flex-direction: column;
+    margin-right: auto;
+}
+
+.call-to-action-primary-text {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.call-to-action-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.call-to-action-button {
+    border-color: white;
+    border-style: solid;
+}
