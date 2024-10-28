@@ -2,7 +2,7 @@
 
 Landing page developed using CSS Flexbox Layout
 
-URL: https://dsardinha.github.io/odin-landing-page/
+URL: https://dsardinha.github.io/landing-page/
 
 ![landing-page](https://github.com/user-attachments/assets/426895e1-ff0c-43ec-bc0f-64c909e185f4)
 
